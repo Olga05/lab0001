@@ -1,5 +1,5 @@
 # lab0001
 
-![](.png)
-![](.png)
-![](.png)
+![](lab11.png)
+![](lab12.png)
+![](lab13.png)
